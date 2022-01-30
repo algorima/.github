@@ -1,6 +1,6 @@
 ## 안녕하세요 👋
 
-![Algorima Cover Image.](https://media-exp1.licdn.com/dms/image/C561BAQH3H5Lhw8MUSg/company-background_10000/0/1642143048607?e=1642305600&v=beta&t=JbGSf634rCJtINtX-IRQeajKO59pNmz2Uc8OP6MNxy8)
+![Algorima Cover Image.](https://user-images.githubusercontent.com/588581/151693011-f229795a-d1c7-4a7b-9aad-f466887a2e05.png)
 
 알고리마는 모두를 위한 AI를 만듭니다.
 
